@@ -1,9 +1,9 @@
 "Linguista sum, linguistici nihil a me alienum puto"
 R. Jakobson
 
-Cognitive and computational based linguist
+Cognitive- and computational-based linguist, fascinated by the complex simplicity of language.
 
-- I’m currently working on ...
+- Currently working on: language complexity
 - I’m currently learning ...
 
-- Contacts: alessandro.buttinelli@unito.it; alessandro.butt@gmail.com 
+- Contacts: alessandro.buttinelli@unito.it (istitutional); alessandro.butt@gmail.com (private)
