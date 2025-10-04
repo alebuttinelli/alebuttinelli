@@ -1,5 +1,5 @@
-## "Linguista sum, linguistici nihil a me alienum puto"
-##R. Jakobson
+##Linguista sum, linguistici nihil a me alienum puto
+R. Jakobson
 
 Cognitive and computational based linguist
 <!--
