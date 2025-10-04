@@ -1,5 +1,7 @@
-## Hi there 👋
+## "Linguista sum, linguistici nihil a me alienum puto"
+##R. Jakobson
 
+Cognitive and computational based linguist
 <!--
 **alebuttinelli/alebuttinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
