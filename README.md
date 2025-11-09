@@ -6,9 +6,9 @@ Cognitive- and computational-based linguist, fascinated by the complex simplicit
 - Currently working on:
   
   - automatic measures of language complexity in texts;
-
   - development of tools for automatic language semplification;
-
   - stylometric analysis.
 
-- Contacts: alessandro.buttinelli@unito.it (istitutional); alessandro.butt@gmail.com (private)
+- Contacts:
+  - alessandro.buttinelli@unito.it (institutional)
+  - alessandro.butt@gmail.com (private)
